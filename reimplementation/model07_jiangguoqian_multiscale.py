@@ -41,30 +41,6 @@ import scipy.io as sio
 from sklearn.model_selection import train_test_split
 
 
-def normalization_processing(data):
-    data_mean = data.mean()
-    data_var = data.var()
-
-    data = data - data_mean
-    data = data / data_var
-
-    return data
-
-def wgn(x, snr):
-
-    snr = 10**(snr/10.0)
-    xpower = np.sum(x**2)/len(x)
-    npower = xpower / snr
-
-    return np.random.randn(len(x)) * np.sqrt(npower)
-
-
-def add_noise(data,snr_num):
-
-    rand_data = wgn(data, snr_num)
-    data = data + rand_data
-
-    return data
 def conv1d_bn_relu_maxpool(x, filters,kernel_size,padding,strides):
     xx = Conv1D(filters=filters, kernel_size=kernel_size, padding=padding, strides=strides)(x)
     xx = BatchNormalization()(xx)
