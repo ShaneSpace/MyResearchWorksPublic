@@ -53,8 +53,6 @@ Jiang G, He H, Yan J, et al. Multiscale convolutional neural networks for fault 
 
 ## model 08
 
-
-
-
+https://github.com/ShaneSpace/MyResearchWorksPublic/blob/main/reimplementation/model08_zhaojing_stim_cnn.py
 
 Zhao J, Yang S, Li Q, et al. A new bearing fault diagnosis method based on signal-to-image mapping and convolutional neural network[J]. Measurement, 2021, 176: 109088.
