@@ -56,3 +56,17 @@ Jiang G, He H, Yan J, et al. Multiscale convolutional neural networks for fault 
 https://github.com/ShaneSpace/MyResearchWorksPublic/blob/main/reimplementation/model08_zhaojing_stim_cnn.py
 
 Zhao J, Yang S, Li Q, et al. A new bearing fault diagnosis method based on signal-to-image mapping and convolutional neural network[J]. Measurement, 2021, 176: 109088.
+
+## model 09
+
+https://github.com/ShaneSpace/MyResearchWorksPublic/blob/main/reimplementation/model09_liang_cnn.py
+
+Liang H, Zhao X. Rolling bearing fault diagnosis based on one-dimensional dilated convolution network with residual connection[J]. IEEE Access, 2021, 9: 31078-31091.
+
+## model 10
+
+https://github.com/ShaneSpace/MyResearchWorksPublic/blob/main/reimplementation/model10_zhaominghang_RSBU.py
+
+Zhao M, Zhong S, Fu X, et al. Deep residual shrinkage networks for fault diagnosis[J]. IEEE Transactions on Industrial Informatics, 2019, 16(7): 4681-4690.
+
+
