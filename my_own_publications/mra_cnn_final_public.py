@@ -2,6 +2,7 @@
 '''
 Multiscale Residual Attention Convolutional Neural Network for Bearing Fault Diagnosis
 Accepted by IEEE TIM
+DOI: 10.1109/TIM.2022.3196742
 '''
 #%% import libs
 import tensorflow as tf
