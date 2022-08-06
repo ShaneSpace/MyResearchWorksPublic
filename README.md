@@ -1,6 +1,14 @@
 # About this repo
 
 This repo is used to store the source codes of my reseach work. It contains two main parts. The first one is the codes that I reimplemented before. The second part is the source codes of my publications. I hope this repo will be useful to you.
+# my_own_publications folder
+
+## MRA-CNN
+https://github.com/ShaneSpace/MyResearchWorksPublic/blob/main/my_own_publications/mra_cnn_final_public.py
+
+
+
+
 
 # reimplementation folder
 
