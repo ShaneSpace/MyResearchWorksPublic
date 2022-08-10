@@ -3,10 +3,20 @@
 This repo is used to store the source codes of my reseach work. It contains two main parts. The first one is the codes that I reimplemented before. The second part is the source codes of my publications. I hope this repo will be useful to you.
 # my_own_publications folder
 
-## MRA-CNN
+## 1. MRA-CNN
 https://github.com/ShaneSpace/MyResearchWorksPublic/blob/main/my_own_publications/mra_cnn_final_public.py
-
-
+The pdf file of the paper is available at:
+https://www.researchgate.net/publication/362513157_Multiscale_Residual_Attention_Convolutional_Neural_Network_for_Bearing_Fault_Diagnosis
+Citation:
+@ARTICLE{jia2022multiscale,
+  author={Jia, Linshan and Chow, Tommy W.S. and Wang, Yu and Yuan, Yixuan},
+  journal={IEEE Transactions on Instrumentation and Measurement}, 
+  title={Multiscale Residual Attention Convolutional Neural Network for Bearing Fault Diagnosis}, 
+  year={2022},
+  volume={},
+  number={},
+  pages={1-1},
+  doi={10.1109/TIM.2022.3196742}}
 
 
 
