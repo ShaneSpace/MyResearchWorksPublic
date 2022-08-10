@@ -7,6 +7,7 @@ This repo is used to store the source codes of my reseach work. It contains two 
 https://github.com/ShaneSpace/MyResearchWorksPublic/blob/main/my_own_publications/mra_cnn_final_public.py
 The pdf file of the paper is available at:
 https://www.researchgate.net/publication/362513157_Multiscale_Residual_Attention_Convolutional_Neural_Network_for_Bearing_Fault_Diagnosis
+
 Citation:
 @ARTICLE{jia2022multiscale,
   author={Jia, Linshan and Chow, Tommy W.S. and Wang, Yu and Yuan, Yixuan},
