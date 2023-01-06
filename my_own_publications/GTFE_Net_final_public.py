@@ -20,11 +20,7 @@ from tensorflow.python.framework.ops import disable_eager_execution, enable_eage
 disable_eager_execution()
 
 
-'''
-This version will only keep the simplest version in test_idea05_functional.py
-New ablation models are added.
-2021-12-08
-'''
+
 def cal_index(y_true, y_pred):
     '''
     Calculate Accuracy, Recall, Precision, F1-Score
