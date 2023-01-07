@@ -9,9 +9,26 @@ https://github.com/ShaneSpace/MyResearchWorksPublic/blob/main/my_own_publication
 
 Citation:
 
-L. Jia, T. W. S. Chow, Y. Wang and Y. Yuan, "Multiscale Residual Attention Convolutional Neural Network for Bearing Fault Diagnosis," in IEEE Transactions on Instrumentation and Measurement, 2022, doi: 10.1109/TIM.2022.3196742.
+L. Jia, T. W. S. Chow, Y. Wang and Y. Yuan, "Multiscale Residual Attention Convolutional Neural Network for Bearing Fault Diagnosis," in IEEE Transactions on Instrumentation and Measurement, 2022, doi: https://doi.org/10.1109/TIM.2022.3196742.
 
-## 2. Please waiting...
+## 2. GTFE-Net
+https://github.com/ShaneSpace/MyResearchWorksPublic/blob/main/my_own_publications/GTFE_Net_final_public.py
+
+
+Citation:
+
+L. Jia, T. W. S. Chow, and Y. Yuan, "GTFE-Net: A Gramian Time Frequency Enhancement CNN for bearing fault diagnosis," inEngineering Applications of Artificial Intelligence, 2022, doi: https://doi.org/10.1016/j.engappai.2022.105794.
+
+
+
+
+
+
+
+
+
+
+
 
 
 
