@@ -15,13 +15,18 @@ L. Jia, T. W. S. Chow, Y. Wang and Y. Yuan, "Multiscale Residual Attention Convo
 https://github.com/ShaneSpace/MyResearchWorksPublic/blob/main/my_own_publications/GTFE_Net_final_public.py
 
 
+
 Citation:
 
-L. Jia, T. W. S. Chow, and Y. Yuan, "GTFE-Net: A Gramian Time Frequency Enhancement CNN for bearing fault diagnosis," inEngineering Applications of Artificial Intelligence, 2022, doi: https://doi.org/10.1016/j.engappai.2022.105794.
+L. Jia, T. W. S. Chow, and Y. Yuan, "GTFE-Net: A Gramian Time Frequency Enhancement CNN for bearing fault diagnosis," in Engineering Applications of Artificial Intelligence, 2023, doi: https://doi.org/10.1016/j.engappai.2022.105794.
 
 
+## 3. CDDG
+https://github.com/ShaneSpace/DGFDBenchmark.
 
+Citation:
 
+L. Jia, T. W. S. Chow, and Y. Yuan, "Causal Disentanglement Domain Generalization for time-series signal fault diagnosis," in Neural Networks, 2024, doi: https://doi.org/10.1016/j.neunet.2024.106099
 
 
 
